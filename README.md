@@ -36,4 +36,4 @@ The Final File can be found [here](https://github.com/monizb/MTM2020-LuhnGen/blo
 
 #### Generated Numbers:
 
-<img src="./screenshots/output.png>
+![Output](https://github.com/monizb/MTM2020-LuhnGen/blob/master/screenshots/output.png)
