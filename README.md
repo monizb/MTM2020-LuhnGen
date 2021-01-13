@@ -37,3 +37,12 @@ The Final File can be found [here](https://github.com/monizb/MTM2020-LuhnGen/blo
 #### Generated Numbers:
 
 ![Output](https://github.com/monizb/MTM2020-LuhnGen/blob/master/screenshots/output.png)
+
+#### Checking If Luhn Compliant:
+
+![Compliant](https://github.com/monizb/MTM2020-LuhnGen/blob/master/screenshots/check.png)
+
+#### Flyer:
+
+![Flyer](https://github.com/monizb/MTM2020-LuhnGen/blob/master/screenshots/flyer.png)
+
