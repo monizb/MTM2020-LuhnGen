@@ -30,4 +30,10 @@ This REXX script generates random Credit Card Numbers which are fully compatible
 
 This is the main part of the program which generates a check sum and applies it onto the generated numbers which in turn Makes it Luhn Compliant
 
-The Final File can be found here.
+The Final File can be found [here](https://github.com/monizb/MTM2020-LuhnGen/blob/master/luhn_cc_gen.rex).
+
+## Screenshots
+
+#### Generated Numbers:
+
+<img src="./screenshots/output.png>
